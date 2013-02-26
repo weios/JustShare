@@ -26,7 +26,7 @@
 
 8.提升用户体验，增加下拉列表自动刷新功能，列表滑到底部自动加载更多数据
 
-9.继承第三方插件，在Gallery中查看微博大图
+9.集成第三方插件，在Gallery中查看微博大图
 
 10.添加二维码功能，轻轻“一扫”，自动收藏喜欢的软件下载地址
 
@@ -53,12 +53,24 @@
 
 11.编码规范
 
+#体验试用
+1.新浪应用广场[爱分享](http://app.weibo.com/detail/6Kzw5S?ref=appsearch#)
+
+2.木蚂蚁[爱分享](http://www.mumayi.com/android-275488.html)
+
+3.查看源码[JustShare](https://code.google.com/p/weibo4pansoft/source/checkout)
+
+
+
 ![欢迎界面](http://static.oschina.net/uploads/space/2013/0116/141244_QnJd_729412.png)
 ![账号管理](http://static.oschina.net/uploads/space/2013/0116/140919_3qAi_729412.png)
 ![新浪微博授权页](http://static.oschina.net/uploads/space/2013/0116/141331_Mxub_729412.png)
 ![腾讯微博授权页](http://static.oschina.net/uploads/space/2013/0116/141413_dOo8_729412.png)
 
-# 联系我
-http://www.diandian.com/dianlog/logan676
+# 联系我们
 
 开发群：232482105
+
+http://logan676.diandian.com/post/2013-01-31/40049163912
+
+
